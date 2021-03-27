@@ -1,1 +1,1 @@
-# 12-web-course
+# sc-12-web-course
